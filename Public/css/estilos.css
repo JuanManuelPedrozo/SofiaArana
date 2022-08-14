@@ -1,0 +1,11 @@
+body{
+    border-color: red;
+}
+div.articulo{
+    color:red;
+}
+h1{
+    border: red 3px solid;
+    font-size: 26px;
+    color:red;
+};
